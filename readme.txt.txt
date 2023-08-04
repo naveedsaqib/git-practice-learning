@@ -1,3 +1,3 @@
 welcome to my project
-Author: Naveed Saqib
+Author: Muhammad Naveed Saqib
 Twitter" @naveedsaqib
